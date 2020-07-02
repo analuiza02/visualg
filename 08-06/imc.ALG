@@ -1,6 +1,6 @@
 Algoritmo "imc"
 // Disciplina  :  [Linguagem e Lógica de Programação] 
-// Descrição   : calcular o imc
+// Descrição   : calcular o imc da pessoa
 // Autor(a)    : Ana Luiza de Oliveira Ferreira
 // Data atual  : 08/06/2020
 Var
