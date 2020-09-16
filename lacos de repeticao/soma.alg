@@ -13,4 +13,6 @@ repita
       leia(num)
       soma<- soma+num
 ate num=0
+
+escreval("a soma dos numeros digitados é:", soma)
 fimalgoritmo
